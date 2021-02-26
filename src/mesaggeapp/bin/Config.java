@@ -1,4 +1,3 @@
-
 package mesaggeapp.bin;
 
 import javafx.scene.layout.AnchorPane;
